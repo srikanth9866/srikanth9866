@@ -12,32 +12,32 @@ Welcome to my GitHub profile! I'm a DevOps Engineer passionate about cloud compu
 ### ☁️ Cloud Platforms
 - **Amazon Web Services (AWS), Microsoft Azure**: Experience in provisioning, configuring, and managing cloud services like EC2, S3, IAM, VPC, RDS, and networking.
 
-![AWS Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="100" height="100" />
 
 ### 📦 Containerization Tool
 - **Docker**: Proficient in containerizing applications for seamless deployment and scaling.
 
-![Docker Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="100" height="100" />
 
 ### ⚡ Container Orchestration Tools
 - **Kubernetes**: Experience in managing containerized applications with deployments, services, and StatefulSets.
 
-![Kubernetes Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" width="100" height="100" />
 
 ### 🔄 Version Management Tools
 - **Git**: Expertise in version control, branching strategies, and collaborative development.
 
-![Git Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="100" height="100" />
 
 ### 🔧 Configuration Management Tools
 - **Ansible, Terraform**: Experience in automating infrastructure provisioning and configuration management.
 
-![Ansible Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original-wordmark.svg)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original-wordmark.svg" width="100" height="100" />
 
 ### 🚀 CI/CD Tools
 - **Jenkins, Argo CD**: Automating build, test, and deployment workflows for continuous integration and delivery.
 
-![Jenkins Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="100" height="100" />
 
 ### 🔨 Build Tools
 - **Maven**: Experience in managing project dependencies and automating builds.
@@ -54,7 +54,7 @@ Welcome to my GitHub profile! I'm a DevOps Engineer passionate about cloud compu
 ### 📊 Monitoring Tools
 - **Grafana, Prometheus, AWS CloudWatch**: Monitoring infrastructure, application performance, and metrics visualization.
 
-![Grafana Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original-wordmark.svg)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original-wordmark.svg" width="100" height="100" />
 
 ### 🌐 Web Servers
 - **Apache, Tomcat**: Configuring and managing web applications.
@@ -66,8 +66,7 @@ Welcome to my GitHub profile! I'm a DevOps Engineer passionate about cloud compu
 
 ## 📫 Get in Touch
 - **GitHub**: [Srikanth Karre](https://github.com/SrikanthKarre)
-- **Email**: [karresrikanth9866@gmail.com](mailto:karresrikanth9866@gmail.com)
-- **LinkedIn**: [Srikanth Karre](https://www.linkedin.com/in/srikanth-karre)
+- **Email**: [karresrikanth9866@gmail.com](mailto:srikanthkarre2912@gmail.com)
 - **LinkedIn**: [Srikanth Karre](https://www.linkedin.com/in/srikanthk9908/)
 
 Feel free to connect with me! 🚀
