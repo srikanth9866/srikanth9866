@@ -1,58 +1,58 @@
-# Hi there, I'm [Srikanth Karre]! 👋
+# Hi there, I'm [Your Name]! 👋
 
 I'm a passionate DevOps Engineer with expertise in building, automating, and optimizing scalable and reliable infrastructure. I love working with cutting-edge technologies to solve complex problems and deliver efficient solutions.
 
 ## 🛠️ Skills
 
 ### **Operating System**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+- **Linux**: Proficient in managing and troubleshooting Linux-based systems.
 
 ### **Cloud**
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+- **Amazon Web Services (AWS)**: Experienced in deploying and managing cloud infrastructure on AWS.
+- **Microsoft Azure**: Skilled in Azure services and cloud solutions.
 
 ### **Containerization Tool**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+- **Docker**: Expertise in containerizing applications and managing Docker images.
 
 ### **Container Orchestration Tools**
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+- **Kubernetes**: Proficient in deploying, scaling, and managing containerized applications using Kubernetes.
 
 ### **Version Management Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- **Git**: Strong knowledge of version control and collaborative development workflows.
 
 ### **Configuration Management Tools**
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+- **Ansible**: Skilled in automation and configuration management.
+- **Terraform**: Experienced in Infrastructure as Code (IaC) for provisioning and managing cloud resources.
 
 ### **CI/CD Tools**
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+- **Jenkins**: Proficient in setting up CI/CD pipelines for automated builds and deployments.
+- **Argo CD**: Experienced in GitOps-based continuous delivery.
 
 ### **Build Tools**
-![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+- **Maven**: Skilled in building and managing Java-based projects.
 
 ### **Static Code Analysis Tool**
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+- **SonarQube**: Experienced in code quality analysis and technical debt management.
 
 ### **Artifactory Repository**
-![Nexus](https://img.shields.io/badge/Nexus-00C7D4?style=for-the-badge&logo=sonatype&logoColor=white)
+- **Nexus**: Proficient in managing artifact repositories for build artifacts and dependencies.
 
 ### **Docker Image Repository**
-![Docker Hub](https://img.shields.io/badge/Docker_Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+- **Docker Hub**: Skilled in managing and publishing Docker images.
 
 ### **Monitoring Tools**
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![AWS CloudWatch](https://img.shields.io/badge/Amazon_CloudWatch-FF4F8B?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white)
+- **Grafana**: Experienced in creating dashboards for monitoring and visualization.
+- **Prometheus**: Skilled in monitoring and alerting for infrastructure and applications.
+- **AWS CloudWatch**: Proficient in monitoring AWS resources and applications.
 
 ### **Web Server**
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
-![Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)
+- **Apache**: Experienced in configuring and managing Apache web servers.
+- **Tomcat**: Skilled in deploying and managing Java applications on Tomcat.
 
 ### **Scripting**
-![Bash](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
-![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apache-groovy&logoColor=white)
+- **Shell Scripting (BASH)**: Proficient in writing scripts for automation and system administration.
+- **YAML**: Experienced in writing configuration files for Kubernetes, Ansible, and CI/CD pipelines.
+- **Groovy**: Skilled in writing Jenkins pipelines and automation scripts.
 
 ## 🌱 What I'm Currently Learning
 - Exploring advanced Kubernetes features like service meshes (Istio) and Helm for package management.
