@@ -65,8 +65,9 @@ Welcome to my GitHub profile! I'm a DevOps Engineer passionate about cloud compu
 ---
 
 ## 📫 Get in Touch
+- **GitHub**: [Srikanth Karre](https://github.com/srikanth9866)
 - **Email**: [srikanthkarre2912@gmail.com](mailto:srikanthkarre2912@gmail.com)
-- **GitHub**: [Srikanth Karre](https://github.com/SrikanthKarre)
+
 
 - **LinkedIn**: [Srikanth Karre](https://www.linkedin.com/in/srikanthk9908/)
 
