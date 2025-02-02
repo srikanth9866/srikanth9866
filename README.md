@@ -1,127 +1,73 @@
-Hi there, I'm Srikanth Karre! 👋
+# Hi there, I'm Srikanth Karre! 👋
 
-I'm a passionate DevOps Engineer with expertise in building, automating, and optimizing scalable and reliable infrastructure. I love working with cutting-edge technologies to solve complex problems and deliver efficient solutions.
+Welcome to my GitHub profile! I'm a DevOps Engineer passionate about cloud computing, automation, and infrastructure as code. I specialize in deploying, managing, and monitoring scalable applications using modern DevOps tools and practices. 
 
-🛠️ Skills
+---
 
-Operating System 🖥️
+## 🛠️ Skill Set
 
-Linux: Proficient in managing and troubleshooting Linux-based systems.
+### 🚀 Operating System
+- **Linux**: Expertise in managing and administering Linux-based environments for development and production workloads.
 
+### ☁️ Cloud Platforms
+- **Amazon Web Services (AWS), Microsoft Azure**: Experience in provisioning, configuring, and managing cloud services like EC2, S3, IAM, VPC, RDS, and networking.
 
-Cloud ☁️
+![AWS Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)
 
-Amazon Web Services (AWS): Experienced in deploying and managing cloud infrastructure on AWS.
+### 📦 Containerization Tool
+- **Docker**: Proficient in containerizing applications for seamless deployment and scaling.
 
+![Docker Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg)
 
-Microsoft Azure: Skilled in Azure services and cloud solutions.
+### ⚡ Container Orchestration Tools
+- **Kubernetes**: Experience in managing containerized applications with deployments, services, and StatefulSets.
 
+![Kubernetes Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg)
 
-Containerization Tool 📦
+### 🔄 Version Management Tools
+- **Git**: Expertise in version control, branching strategies, and collaborative development.
 
-Docker: Expertise in containerizing applications and managing Docker images.
+![Git Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg)
 
+### 🔧 Configuration Management Tools
+- **Ansible, Terraform**: Experience in automating infrastructure provisioning and configuration management.
 
-Container Orchestration Tools ⚙️
+![Ansible Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original-wordmark.svg)
 
-Kubernetes: Proficient in deploying, scaling, and managing containerized applications using Kubernetes.
+### 🚀 CI/CD Tools
+- **Jenkins, Argo CD**: Automating build, test, and deployment workflows for continuous integration and delivery.
 
+![Jenkins Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg)
 
-Version Control System 🗃️
+### 🔨 Build Tools
+- **Maven**: Experience in managing project dependencies and automating builds.
 
-Git: Strong knowledge of version control and collaborative development workflows.
+### 🛡️ Static Code Analysis Tool
+- **SonarQube**: Ensuring code quality and security through static analysis.
 
+### 📦 Artifactory Repository
+- **Nexus**: Managing binary artifacts and dependencies efficiently.
 
-Configuration Management Tools 🔧
+### 🐳 Docker Image Repository
+- **Docker Hub**: Hosting and managing Docker container images for deployment.
 
-Ansible: Skilled in automation and configuration management.
+### 📊 Monitoring Tools
+- **Grafana, Prometheus, AWS CloudWatch**: Monitoring infrastructure, application performance, and metrics visualization.
 
+![Grafana Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original-wordmark.svg)
 
-Terraform: Experienced in Infrastructure as Code (IaC) for provisioning and managing cloud resources.
+### 🌐 Web Servers
+- **Apache, Tomcat**: Configuring and managing web applications.
 
+### 🖥️ Scripting
+- **Shell Scripting (BASH), YAML, Groovy**: Writing automation scripts and configurations for DevOps processes.
 
-CI/CD Tools 🚀
+---
 
-Jenkins: Proficient in setting up CI/CD pipelines for automated builds and deployments.
+## 📫 Get in Touch
+- **GitHub**: [Srikanth Karre](https://github.com/SrikanthKarre)
+- **Email**: [karresrikanth9866@gmail.com](mailto:karresrikanth9866@gmail.com)
+- **LinkedIn**: [Srikanth Karre](https://www.linkedin.com/in/srikanth-karre)
+- **LinkedIn**: [Srikanth Karre](https://www.linkedin.com/in/srikanthk9908/)
 
-
-Argo CD: Experienced in GitOps-based continuous delivery.
-
-
-Build Tools 🏗️
-
-Maven: Skilled in building and managing Java-based projects.
-
-
-Static Code Analysis Tool 🧐
-
-SonarQube: Experienced in code quality analysis and technical debt management.
-
-
-Artifact Repository Management 📂
-
-Nexus: Proficient in managing artifact repositories for build artifacts and dependencies.
-
-
-Docker Hub: Skilled in managing and publishing Docker images.
-
-
-Monitoring Tools 📊
-
-Grafana: Experienced in creating dashboards for monitoring and visualization.
-
-
-Prometheus: Skilled in monitoring and alerting for infrastructure and applications.
-
-
-AWS CloudWatch: Proficient in monitoring AWS resources and applications.
-
-
-Web Server Management 🌍
-
-Apache: Experienced in configuring and managing Apache web servers.
-
-
-Tomcat: Skilled in deploying and managing Java applications on Tomcat.
-
-
-Scripting 📜
-
-Shell Scripting (BASH): Proficient in writing scripts for automation and system administration.
-
-YAML: Experienced in writing configuration files for Kubernetes, Ansible, and CI/CD pipelines.
-
-Groovy: Skilled in writing Jenkins pipelines and automation scripts.
-
-🌱 What I'm Currently Learning
-
-Exploring advanced Kubernetes features like service meshes (Istio) and Helm for package management.
-
-Deepening my knowledge of cloud-native technologies and serverless architectures.
-
-📫 How to Reach Me
-
-LinkedIn: Srikanth Karre
-
-Email: karresrikanth9866@gmail.com
-
-🚀 Projects
-
-Here are some of the projects I've worked on:
-
-K8S_Project_1
-
-Description: A Kubernetes-based project that automates deployment and management of a cloud-native application.
-
-WebApp Deployment
-
-Description: CI/CD pipeline setup for automated web application deployment using Jenkins, Docker, Kubernetes, and ArgoCD.
-
-📊 GitHub Stats
-
-
-
-
-
-⭐️ From Srikanth Karre
-
+Feel free to connect with me! 🚀
