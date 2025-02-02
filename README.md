@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm [Srikanth Karre]! 👋
 
 I'm a passionate DevOps Engineer with expertise in building, automating, and optimizing scalable and reliable infrastructure. I love working with cutting-edge technologies to solve complex problems and deliver efficient solutions.
 
